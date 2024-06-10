@@ -1,7 +1,4 @@
-# Sovol SV-08
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
 
-### Klipper Backup
-### SERIAL: N/A
-
-
-look at that, automated backups.....
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
